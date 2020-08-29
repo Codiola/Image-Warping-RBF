@@ -1,3 +1,6 @@
+clc
+clear
+close all
 %% read image
 im = imread('../TestImage/warp_test.bmp');
 
